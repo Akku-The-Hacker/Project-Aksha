@@ -103,4 +103,18 @@ Found a bug or have a feature request? Open an [Issue](https://github.com/Akku-T
 
 ---
 
+## 🤖 Development Approach
+
+Aksha was developed using AI-agent–based tooling (Google Antigravity).
+
+ChatGPT was used for:
+- Product brainstorming
+- PRD structuring
+- Edge-case analysis
+- UX refinement
+
+All architectural decisions, logic validation, and iterative improvements were guided through structured design thinking and real-device usage.
+
+---
+
 **Made with ❤️ by Aakash Bamniya**
