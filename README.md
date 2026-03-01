@@ -90,7 +90,7 @@
 ![Insights Week](screenshots/Insights-Week.jpg)
 
 ### Insights – Monthly View
-![Insights Month](screenshots/insights-Month.jpg)
+![Insights Month](screenshots/Insights-Month.jpg)
 
 ### Settings
 ![Settings](screenshots/Settings.jpg)
