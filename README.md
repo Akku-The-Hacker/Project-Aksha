@@ -37,7 +37,7 @@
 
 ## 📱 Download
 
-👉 **[Download Latest APK](https://github.com/YOUR_USERNAME/aksha/releases/latest)**
+👉 **[Download Latest APK](https://github.com/Akku-The-Hacker/aksha/releases/latest)**
 
 **Requirements:** Android 6.0+ (API 23)
 
