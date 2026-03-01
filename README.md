@@ -73,7 +73,27 @@
 
 ## 📸 Screenshots
 
-*Coming soon*
+## 📸 Screenshots
+
+### Home (Daily Execution)
+![Home](screenshots/Today.jpg)
+![Home](screenshots/Activity_Input.jpg)
+
+### Routine Management
+![Routine](screenshots/Routine.jpg)
+![Routine](screenshots/Add_Routine.jpg)
+
+### Insights – Daily View
+![Insights Daily](screenshots/Insights-Today.jpg)
+
+### Insights – Weekly View
+![Insights Week](screenshots/Insights-Week.jpg)
+
+### Insights – Monthly View
+![Insights Month](screenshots/insights-Month.jpg)
+
+### Settings
+![Settings](screenshots/Settings.jpg)
 
 ---
 
