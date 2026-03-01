@@ -73,8 +73,6 @@
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home (Daily Execution)
 ![Home](screenshots/Today.jpg)
 ![Home](screenshots/Activity_Input.jpg)
