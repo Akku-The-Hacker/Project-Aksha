@@ -2,10 +2,10 @@
 
 **Aksha — Personal Routine Tracker & Habit Management App**
 
-**Effective Date:** 8 March 2026
-**Last Updated:** 8 March 2026
+**Effective Date:** 5 March 2026
+**Last Updated:** 5 March 2026
 **App Package Name:** aashu.aksha
-**Version:** 1.6.2
+**Version:** 1.6.0
 
 ---
 
